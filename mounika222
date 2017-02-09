@@ -6,8 +6,10 @@ main();
   int a;
   a=10; 
   b=20;
-  c=a+b;
-     printf("val of c=%d",c);
+  c=b-a;
+
+     
+     printf("val of c=%d",c)
      getche();
   }
   
